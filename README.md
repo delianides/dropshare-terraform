@@ -22,7 +22,7 @@ to use.
 5. Run `terraform apply` and enter the domain you previously setup.
 6. The run should end after a few minutes and output the domain and IAM keys to
    use in Dropshare (Do not use root credentials)
-7. Use those credentials to log into Dropshare.
+7. Use those credentials to create a [connection](https://dropshare.zendesk.com/hc/en-us/articles/115003135729-How-to-set-up-Amazon-S3) in Dropshare.
 
 
 ## Thanks
